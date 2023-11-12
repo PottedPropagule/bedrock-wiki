@@ -249,7 +249,7 @@ Now we create a world to test your new add-on!
 
 **Here is how your project should look, after completing this page:**
 
-Remember that in future, we will represent `com.mojang/development_behavior_packs/guide_RP/` as `RP`, and `com.mojang/development_behavior_packs/guide_BP/` as `BP`.
+Remember that in future, we will represent `com.mojang/development_resource_packs/guide_RP/` as `RP`, and `com.mojang/development_behavior_packs/guide_BP/` as `BP`.
 
 <FolderView :paths="[
 	'com.mojang/development_resource_packs/guide_RP/manifest.json',
